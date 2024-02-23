@@ -1,0 +1,50 @@
+{
+  "name": "slemek-polling",
+  "version": "1.0.0",
+  "description": "Slemek-polling di buat oleh Naaazzzzz © Slemek Community",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnandaGTPS/polling.git"
+  },
+  "keywords": [
+    "slemek-community",
+    "naaazzzzz",
+    "anandagtps",
+    "bot-whatsapp-2024",
+    "bot-whatsapp"
+  ],
+  "author": "Naaazzzzz",
+  "license": "ISC",
+  "dependencies": {
+  "@whiskeysockets/baileys": "^6.5.0", 
+  "@adiwajshing/keyed-db": "^0.2.4",
+  "chalk": "^4.1.2",
+  "cheerio": "^1.0.0-rc.10",
+  "cfonts": "^3.1.1",
+  "fluent-ffmpeg": "^2.1.2",
+  "awesome-phonenumber": "^2.64.0",
+  "moment-timezone": "^0.5.34",
+  "lodash": "^4.17.21",
+  "jimp": "^0.16.1",
+  "human-readable": "^0.2.1",
+  "node-webpmux": "^3.1.0",
+  "node-fetch": "^2.7.0",
+  "mongoose": "^6.2.1", 
+  "lowdb": "^2.1.0",
+  "file-type": "^16.5.3",
+  "yargs": "^17.7.1",
+  "util": "^0.12.4",
+  "syntax-error": "^1.4.0",
+  "readline": "^1.3.0",
+  "pino": "^7.0.5"
+  }, 
+  "bugs": {
+    "url": "https://github.com/AnandaGTPS/polling/issues"
+  },
+  "homepage": "https://github.com/AnandaGTPS/polling#readme"
+}
